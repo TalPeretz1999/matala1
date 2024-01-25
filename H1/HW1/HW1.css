@@ -11,7 +11,7 @@ body {
 
 section p {
   display: flex;
-  padding: 10px;
+  padding: 20px;
 }
 
 section {
@@ -23,7 +23,6 @@ section {
   border-radius: 100px;
   padding: 10px;
 }
-
 .flex-container {
   display: flex;
   justify-content: center;
@@ -82,7 +81,7 @@ li:nth-child(odd) {
 
 .card {
   width: 300px;
-  height: 400px;
+  height: 530px;
   border-style: outset;
   border-radius: 20px;
   border-width: 2px;
@@ -100,8 +99,6 @@ li:nth-child(odd) {
   text-align: center;
   flex-wrap: wrap;
   overflow: auto;
-  width: 300px;
-  height: 300px;
   gap: 10px;
 }
 
